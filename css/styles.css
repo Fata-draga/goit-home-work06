@@ -121,7 +121,7 @@ img {
   text-transform: uppercase;
   margin-right: 76px;
   display: inline-block;
-  /* Modificat din tema 3 */
+  /* tema 3 */
   /* margin-bottom: 16px; */
 }
 
@@ -140,7 +140,7 @@ img {
 .address-list {
   display: flex;
   gap: 40px;
-  /* adaugat in tema 4 */
+  /*  in tema 4 */
   padding-left: 251px;
 }
 
